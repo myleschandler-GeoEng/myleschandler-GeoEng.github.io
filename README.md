@@ -5,7 +5,7 @@ I am a marine technologist and geotechnical consultant specialising in Cable Bur
 
 I am a principal contributor to the redevelopment of Intertek Metoc’s CBRA and Vertical Reference Level (VRL) workflow, I developed a daisy-chained Python and GIS process that reduces typical ground model preparation and probabilistic calculation from over 10-15 days, to approximately three days. Used by at least five colleagues, the process supports repeated project revisions while providing controlled engineering inputs, quality checks, traceability, and defined points for engineering review. The methods are sufficiently documented and scripts reviewed through an engineering governance procedure I developed as lead within a Coding Working Group at the company.
 
-## Areas of expertise
+## Areas of Expertise
 - Cable burial risk assessment
 - Ground modelling
 - Sediment mobility and Vertical/Non-mobile Reference Levels
