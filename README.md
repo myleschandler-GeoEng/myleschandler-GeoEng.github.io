@@ -15,6 +15,7 @@ I am a principal contributor to the redevelopment of Intertek Metoc’s CBRA, Ve
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/myleschandler1/)
+
 [ResearchGate](https://www.researchgate.net/profile/Myles-Chandler-3)
 
 Contact: <myles.chandler8@gmail.com>
