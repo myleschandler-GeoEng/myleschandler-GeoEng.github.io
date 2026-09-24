@@ -62,7 +62,7 @@ Other common sources include:
 
 These uncertainties should be linked to their possible consequences to aid route engineering and carried through to the Burial Assessment Study (BAS), informing tool selection, achievable burial depth, installation rate, cable protection recommendations, and residual risk.
 
-## Kriging, and Monte Carlo Simulations
+## Kriging and Monte Carlo Simulations
 Statistical quantitative methods can be applied to extend sampled datasets, model multiple scenarios, and present uncertainty; however, their limitations should be carefully considered before and during implementation.
 
 ### Kriging
