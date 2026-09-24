@@ -62,7 +62,7 @@ Other common sources include:
 
 These uncertainties should be linked to their possible consequences to aid route engineering and carried through to the Burial Assessment Study (BAS), informing tool selection, achievable burial depth, installation rate, cable protection recommendations, and residual risk.
 
-## Kriging, Bayesian Methods, and Monte Carlo Simulation
+## Kriging, and Monte Carlo Simulations
 Statistical quantitative methods can be applied to extend sampled datasets, model multiple scenarios, and present uncertainty; however, their limitations should be carefully considered before and during implementation.
 
 ### Kriging
@@ -72,12 +72,7 @@ Kriging cannot identify a geological feature that is absent from the input data 
 
 A better approach is to integrate the data and treat the gravel and boulder area as a separate geological zone. It may be assigned a representative grain-size range using comparable nearby samples, regional evidence, or a documented engineering assumption. The value must remain clearly identified as inferred and uncertain, rather than measured.
 
-### Bayesian Methods
-Bayesian methods combine prior knowledge with new evidence. Regional mapping, previous projects, or geophysical interpretation may provide the initial understanding, which is then updated using site-specific survey and sampling results.
-
-This is useful where observations are sparse but several evidence sources are available. However, poorly justified prior assumptions can still produce misleading results.
-
-### Monte Carlo Simulation
+### Monte Carlo Simulations
 Monte Carlo simulation tests how uncertain inputs affect the range and probability of modelled outcomes. Instead of using one fixed value for each parameter, values are sampled repeatedly from defined probability distributions.
 
 Applications for CBRAs may include uncertainty in:
