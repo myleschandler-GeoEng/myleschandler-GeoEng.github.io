@@ -1,9 +1,6 @@
 
----
-| | |
-|---|---|
-| Title | Article Title |
-| Published | Month Year |
+Title: Article Title
+Published: Month Year
 ---
 
 # Section 1
