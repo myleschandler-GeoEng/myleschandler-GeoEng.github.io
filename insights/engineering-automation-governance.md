@@ -1,7 +1,9 @@
 
 ---
-Title: Engineering and Automation Governance
-Published: September 2026
+|   |   |
+|---|---|
+| Title | Engineering and Automation Governance |
+| Published | September 2026 |
 ---
 
 # Engineering and Automation Governance
