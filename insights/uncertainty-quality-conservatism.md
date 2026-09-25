@@ -1,6 +1,9 @@
+
 ---
-Title: Data Quality, Uncertainty, and Conservatism
-Published: September 2026
+|   |   |
+|---|---|
+| Title | Data Quality, Uncertainty, and Conservatism |
+| Published | September 2026 |
 ---
 
 # Data Quality and Uncertainty
