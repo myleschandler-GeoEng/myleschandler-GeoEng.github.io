@@ -14,10 +14,10 @@ I am a principal contributor to the redevelopment of Intertek Metoc’s CBRA, Ve
 - Geological and geophysical data integration
 
 ## Articles
-[Engineering, Automation, and Governance](insights/engineering-automation-governance.md)
+[Engineering, Automation, and Governance](insights/engineering-automation-governance.md).
 How I retain engineering judgement in automated processes without completely removing the engineers.
 
-[Data Quality, Uncertainty, and Conservatism](insights/uncertainty-quality-conservatism.md)
+[Data Quality, Uncertainty, and Conservatism](insights/uncertainty-quality-conservatism.md).
 Showcasing how poorly-constrained outcomes can arise from highly uncertain or poor-quality datasets; explaining how understanding uncertainty can be utilised in models and inform engineering decisions.
 
 ## Links
