@@ -20,6 +20,9 @@ How I retain engineering judgement in automated processes without completely rem
 [Data Quality, Uncertainty, and Conservatism](insights/uncertainty-quality-conservatism.md).
 Showcasing how poorly-constrained outcomes can arise from highly uncertain or poor-quality datasets; explaining how understanding uncertainty can be utilised in models and inform engineering decisions.
 
+[Soil Simplification and Ground Modelling](insights/soil-simplification.md).
+Discussing challenges with soil interpretation and simplification for cables projects, as well as future engineering impacts.
+
 ## Links
 [LinkedIn](https://www.linkedin.com/in/myleschandler1/)
 
