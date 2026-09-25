@@ -1,7 +1,8 @@
 
 Title: Article Title
+
 Published: Month Year
----
+
 
 # Section 1
 
