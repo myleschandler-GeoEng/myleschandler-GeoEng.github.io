@@ -1,6 +1,9 @@
+
 ---
-Title: Soil Simplification and Ground Models
-Published: September 2026
+|   |   |
+|---|---|
+| Title | Soil Simplification and Ground Models |
+| Published | September 2026 |
 ---
 
 # Soil Descriptions
