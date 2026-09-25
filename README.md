@@ -1,7 +1,7 @@
 # Myles Chandler MSci GMICE
-Offshore cable engineering, GIS, and Python automation consultant.
+Offshore cable engineering, GIS, and Python automation consultant. I am marine geotechnical engineering consultant for offshore cables and renewable energy.
 
-I am marine geotechnical engineering consultant for offshore cables and renewable energy.
+Please follow this link to view my [main webpage](https://myleschandler-geoeng.github.io/)
 
 ## Statement
 These articles reflect my personal professional experience and general engineering principles. Examples are simplified or synthetic and do not reproduce client data, confidential methods, or project-specific recommendations.
