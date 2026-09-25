@@ -1,10 +1,6 @@
 
----
-|   |   |
-|---|---|
-| Title | Data Quality, Uncertainty, and Conservatism |
-| Published | September 2026 |
----
+Title: Data Quality, Uncertainty, and Conservatism
+Published: September 2026 
 
 # Data Quality and Uncertainty
 Data quality and uncertainty are related, but they are not direct opposites. Data quality describes whether information is accurate, complete, representative, and suitable for its intended use. Uncertainty describes the limits of what can be concluded from that information.
