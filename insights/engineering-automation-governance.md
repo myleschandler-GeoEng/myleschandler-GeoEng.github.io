@@ -1,10 +1,6 @@
 
----
-|   |   |
-|---|---|
-| Title | Engineering and Automation Governance |
-| Published | September 2026 |
----
+Title: Engineering and Automation Governance
+Published: September 2026
 
 # Engineering and Automation Governance
 Automation can significantly improve the efficiency and consistency of engineering workflows, particularly where repetitive processing tasks can be standardised. However, automation does not remove the need for engineering judgement. Effective workflows explicitly define the interfaces where automated processes end and where human interpretation, challenge, and decision-making begin.
