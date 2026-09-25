@@ -1,10 +1,7 @@
 
----
-|   |   |
-|---|---|
-| Title | Soil Simplification and Ground Models |
-| Published | September 2026 |
----
+Title: Soil Simplification and Ground Models
+
+Published: September 2026
 
 # Soil Descriptions
 Seabed geology is complex. Soil descriptions can be presented in a variety of ways and all vary significantly in the standards and styles of classification; for example, interpretation of Cone Penetration Tests (CPT) geophysical horizons, regional classification models, Side-scan Sonar (SSS) surface interpretations, Sub-bottom Profiler (SBP) horizons, and physical log descriptions. Yet, interbedding, layering, laminations, poor sorting and high heterogeneity, fragments (rock or shell), pore space, and rock quality can all have a significant impact on the engineering parameters and models used for assessments as the behaviour of the soil is influenced by these factors.
