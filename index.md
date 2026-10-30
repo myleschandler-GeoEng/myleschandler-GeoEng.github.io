@@ -23,6 +23,9 @@ Showcasing how poorly-constrained outcomes can arise from highly uncertain or po
 [Soil Simplification and Ground Modelling](insights/soil-simplification.md).
 Discussing challenges with soil interpretation and simplification for cables projects, as well as future engineering impacts.
 
+[Marine Infrastructure Planning](insights/marine-infrastructure-planning.md).
+A short discussion on different marine asset demands, supply-chain and transmission grid constraints, and the importance of early-stage planning and collaborative approaches.
+
 ## Links
 [LinkedIn](https://www.linkedin.com/in/myleschandler1/)
 
